@@ -4,7 +4,7 @@ A list of awesome AI instructions, including instructions, prompts, skills, MCPs
 
 ## Instructions
 
-TBD
+- [基本规范](./instructions/base.md)
 
 ## Prompts
 
